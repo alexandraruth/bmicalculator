@@ -1,1 +1,2 @@
-# classassignment_bmiapp
+# BMI calculator
+# assignment 5
